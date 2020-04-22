@@ -30,4 +30,4 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 Include a link to your project on GitHub.
 
-[Team project repo is not available yet]
+[https://github.com/LaunchCodeLiftoffProjects/Happy-Meower](https://github.com/LaunchCodeLiftoffProjects/Happy-Meower)
